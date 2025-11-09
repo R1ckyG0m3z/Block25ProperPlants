@@ -1,0 +1,13 @@
+.cartplant {
+  display: flex;
+  gap: 1vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.cartplantquantity {
+  display: flex;
+  gap: 1vh;
+  align-items: center;
+  justify-content: center;
+}
